@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/ardsec-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-starter" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

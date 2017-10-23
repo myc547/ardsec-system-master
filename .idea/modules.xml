@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ardsec-system/ardsec-system.iml" filepath="$PROJECT_DIR$/ardsec-system/ardsec-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization.iml" filepath="$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-controller/ardsec-system-organization-controller.iml" filepath="$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-controller/ardsec-system-organization-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-dao/ardsec-system-organization-dao.iml" filepath="$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-dao/ardsec-system-organization-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-entity/ardsec-system-organization-entity.iml" filepath="$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-entity/ardsec-system-organization-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-service/ardsec-system-organization-service.iml" filepath="$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-service/ardsec-system-organization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-starter/ardsec-system-organization-starter.iml" filepath="$PROJECT_DIR$/ardsec-system/ardsec-system-organization/ardsec-system-organization-starter/ardsec-system-organization-starter.iml" />
+    </modules>
+  </component>
+</project>
